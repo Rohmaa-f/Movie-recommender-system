@@ -35,7 +35,6 @@ You can download it from:
 [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/)
 
 The dataset includes user IDs, movie IDs, ratings, timestamps, and genres.  
-A **time-aware split** ensures that each user’s earlier ratings are used for training, and newer ratings for testing — making evaluation more realistic.
 
 ---
 
