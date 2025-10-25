@@ -79,8 +79,7 @@ pip install -r requirements.txt
 
 ## Key Learnings
 
-- Implemented both **collaborative filtering** and **neural recommendation models** from scratch.  
-- Understood the importance of **time-aware train-test splits** to avoid data leakage.  
+- Implemented both **collaborative filtering** and **neural recommendation models** from scratch.    
 - Interpreted **RMSE**, **MAE**, and **Recall@10** to evaluate rating accuracy and ranking quality.  
 - Gained experience with **machine learning pipelines**, **feature embeddings**, and **model evaluation**.  
 - Strengthened understanding of **data preprocessing** and **model performance interpretation**.
