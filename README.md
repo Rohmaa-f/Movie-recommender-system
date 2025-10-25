@@ -24,6 +24,7 @@ The goal is to understand and compare classical and neural approaches to recomme
 | DNN | 0.88 | 0.67 | 0.68 |
 
 *Lower RMSE and MAE mean better prediction accuracy; higher Recall@10 indicates better recommendation ranking.*  
+
 These results show that while SVD gives a solid baseline, the DNN model achieves higher accuracy and improved recommendation quality.
 
 ---
