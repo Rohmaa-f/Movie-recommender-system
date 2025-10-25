@@ -47,12 +47,11 @@ You can install everything using:
 pip install -r requirements.txt
 ```
 ### Required Libraries
-- pandas  
-- numpy  
-- scikit-learn  
-- scipy  
-- tensorflow  
-- keras
+- pandas → data handling (MovieLens dataset loading & manipulation)
+- numpy → matrix operations
+- scikit-learn → preprocessing, TF-IDF, scaling, metrics, etc.
+- scipy → SVD (via svds)  
+- tensorflow/keras → deep neural network model
 
 ---
 
