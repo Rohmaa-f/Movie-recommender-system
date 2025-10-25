@@ -45,7 +45,7 @@ You can install everything using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### Required Libraries
 - pandas  
 - numpy  
@@ -61,19 +61,19 @@ pip install -r requirements.txt
 1. **Clone this repository**
    ```bash
    git clone https://github.com/<your-username>/movie-recommender-system.git
-
+   ```
 2. **Navigate to the project directory**
    ```bash
    cd movie-recommender-system
-
+   ```
 3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-
+   ```
 4. **Open the Jupyter notebook**
     ```bash
    jupyter notebook Movie_Recommender_System_using_SVD_and_DNN.ipynb.ipynb
-
+   ```
 5. **Run all cells sequentially**
 
 
