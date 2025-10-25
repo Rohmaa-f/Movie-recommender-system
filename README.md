@@ -46,3 +46,43 @@ You can install everything using:
 ```bash
 pip install -r requirements.txt
 
+### Required Libraries
+- pandas  
+- numpy  
+- scikit-learn  
+- scipy  
+- tensorflow  
+- keras
+
+---
+
+## How to Run the Project
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/<your-username>/movie-recommender-system.git
+
+2. **Navigate to the project directory**
+   ```bash
+   cd movie-recommender-system
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Open the Jupyter notebook**
+    ```bash
+   jupyter notebook Movie_Recommender_System_using_SVD_and_DNN.ipynb.ipynb
+
+5. **Run all cells sequentially**
+
+
+## Key Learnings
+
+- Implemented both **collaborative filtering** and **neural recommendation models** from scratch.  
+- Understood the importance of **time-aware train-test splits** to avoid data leakage.  
+- Interpreted **RMSE**, **MAE**, and **Recall@10** to evaluate rating accuracy and ranking quality.  
+- Gained experience with **machine learning pipelines**, **feature embeddings**, and **model evaluation**.  
+- Strengthened understanding of **data preprocessing** and **model performance interpretation**.
+
+
