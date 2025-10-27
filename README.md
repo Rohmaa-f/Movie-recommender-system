@@ -63,7 +63,7 @@ pip install -r requirements.txt
    ```
 2. **Navigate to the project directory**
    ```bash
-   cd movie-recommender-system
+   cd Movie-recommender-system
    ```
 3. **Install dependencies**
    ```bash
