@@ -71,7 +71,7 @@ pip install -r requirements.txt
    ```
 4. **Open the Jupyter notebook**
     ```bash
-   jupyter notebook Movie_Recommender_System_using_SVD_and_DNN.ipynb.ipynb
+   jupyter notebook Movie_Recommender_System_using_SVD_and_DNN.ipynb
    ```
 5. **Run all cells sequentially**
 
